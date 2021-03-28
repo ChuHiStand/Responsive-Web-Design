@@ -21,3 +21,5 @@ Ex. [https://codepen.io/freeCodeCamp/full/zNqgVx.]
 - User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 
 - User Story #9: The img element should be centered within its parent element.
+
+//Will add more user stories
